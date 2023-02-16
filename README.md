@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D GIF">
+<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479hmvbao20sacetxkngs33k3sush1hxkugbauqwqu&rid=giphy.gif&ct=g" alt="3D GIF">
 
 
 <h1 align="center">Hi 👋, It's Mubashir Haider</h1>
