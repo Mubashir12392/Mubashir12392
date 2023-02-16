@@ -1,4 +1,6 @@
-<img src="https://media0.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47sbc9z649trb6if0o2fhdkimtbr74kuqolqtx0to4&rid=giphy.gif&ct=g" alt="pic">
+<p align="center">
+<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479hmvbao20sacetxkngs33k3sush1hxkugbauqwqu&rid=giphy.gif&ct=g" alt="pic">
+</p>
 
 <h1 align="center">Hi 👋, It's Mubashir Haider</h1>
 <h3 align="center">A Experienced Python Developer</h3>
