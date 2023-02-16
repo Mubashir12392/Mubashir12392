@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479hmvbao20sacetxkngs33k3sush1hxkugbauqwqu&rid=giphy.gif&ct=g" alt="pic">
+<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479hmvbao20sacetxkngs33k3sush1hxkugbauqwqu&rid=giphy.gif&ct=g" alt="pic" width="1000">
 </p>
 
 <h1 align="center">Hi 👋, It's Mubashir Haider</h1>
