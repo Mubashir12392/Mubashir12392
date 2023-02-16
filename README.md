@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479hmvbao20sacetxkngs33k3sush1hxkugbauqwqu&rid=giphy.gif&ct=g" alt="3D GIF">
+<video crossorigin="anonymous" draggable="true" class="giphy-video" width="1000" height="438" autoplay="" playsinline="" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIwZTQ3NDM3YTU3MTJkNzMzZjcwNTlhZGQ0MDBiNDQ1YTA5MGUxNCZjdD12JmNjPWVu/OYZOPheyZZ3PTD4tig/giphy480p.mp4" data-giphy-id="OYZOPheyZZ3PTD4tig"></video>
 
 
 <h1 align="center">Hi 👋, It's Mubashir Haider</h1>
