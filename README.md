@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **mubashirhaider01@gmail.com**
 
-- ⚡ Fun fact 
+- ⚡ Fun fact **I do awkward things in python and tell computers what to do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
