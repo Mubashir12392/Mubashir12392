@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at Github
 
-- 💬 Ask me 
+- 💬 Ask me about **Python, HTML, CSS, Django, Flask**
 
 - 📫 Reach me at **mubashirhaider01@gmail.com**
 
