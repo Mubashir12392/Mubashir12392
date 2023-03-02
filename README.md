@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working with **4 media Group**
 
-- 🌱 I’m currently learning **Frameworks Flask, Django, Grok**
+- 🌱 Also have Experience in **Frameworks Flask and Django**
 
 - 👨‍💻 All of my projects are available at Github
 
