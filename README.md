@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mubashir12392" alt="Mubashir12392" /></a> </p>
 
-- 🔭 I’m currently working with **4 media Group**
+- 🔭 I’m currently working with **Bitlogia**
 
-- 🌱 Also have Experience in **Frameworks Flask and Django**
+- 🌱 Also have Experience in **Frameworks Django, Django Rest and Flask**
 
 - 👨‍💻 All of my projects are available at Github
 
-- 💬 Ask me about **Python, HTML, CSS, Django, Flask**
+- 💬 Ask me about **Python, Django, Django Rest, Flask**
 
 - 📫 Reach me at **mubashirhaider01@gmail.com**
 
