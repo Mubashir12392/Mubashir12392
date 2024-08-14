@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">Hi 👋, It's Mubashir Haider</h1>
-<h3 align="center">A Experienced Python Developer</h3>
+<h3 align="center">A Passionate Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubashir12392&label=Profile%20views&color=0e75b6&style=flat" alt="Mubashir12392" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mubashir12392" alt="Mubashir12392" /></a> </p>
 
-- 🔭 I’m currently working with **Bitlogia**
+- 🔭 I’m currently working with **ECOM SPECIALIST**
 
 - 🌱 Also have Experience in **Frameworks Django, Django Rest and Flask**
 
 - 👨‍💻 All of my projects are available at Github
 
-- 💬 Ask me about **Python, Django, Django Rest, Flask**
+- 💬 Ask me about **Python, Django, Django Rest, Flask, REST API'S, ORM, OOP, Data Structures**
 
 - 📫 Reach me at **mubashirhaider01@gmail.com**
 
