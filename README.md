@@ -1,25 +1,28 @@
-<p align="center">
-<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479hmvbao20sacetxkngs33k3sush1hxkugbauqwqu&rid=giphy.gif&ct=g" alt="pic" width="1000">
-</p>
 
-<h1 align="center">Hi 👋, It's Mubashir Haider</h1>
-<h3 align="center">A Passionate Python Developer</h3>
+# Hi 👋, It's Muhammad Mubashir
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubashir12392&label=Profile%20views&color=0e75b6&style=flat" alt="Mubashir12392" /> </p>
+## Senior Python Developer \| Django Expert \| AI-Powered Web App Builder
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mubashir12392" alt="Mubashir12392" /></a> </p>
+![Profile views](https://komarev.com/ghpvc/?username=Mubashir12392&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working with **ECOM SPECIALIST**
+[![Mubashir12392's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Mubashir12392)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 Also have Experience in **Frameworks Django, Django Rest and Flask**
+### About Me
 
-- 👨‍💻 All of my projects are available at Github
+I'm a **Senior Python Developer** with extensive experience building scalable, secure, and high-performance **web applications** and **SaaS products** using Django, FastAPI, and modern backend technologies.
 
-- 💬 Ask me about **Python, Django, Django Rest, Flask, REST API'S, ORM, OOP, Data Structures**
+With a growing passion for **AI**, I'm actively building projects using **LLMs**, **LangChain**, **OpenAI**, **Whisper API**, **Vector DBs (FAISS/Chroma)**, and deploying them with **Docker + AWS**.
 
-- 📫 Reach me at **mubashirhaider01@gmail.com**
+I'm also diving deep into **Agentic AI**, **system design**, and cloud-native architecture to create **autonomous and intelligent agents**.
 
-- ⚡ Fun fact **I do awkward things in python and tell computers what to do.**
+### Current Focus
+
+- 🧠 Building **AI-powered agents** with LangChain & OpenAI API
+- 🔍 Mastering **Agentic AI** workflows and tools
+- ⚙️ Learning **advanced system design**, **concurrency**, and **AWS architecture**
+- 📈 Exploring scalable AI SaaS product development
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,10 +36,58 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left" style="display: flex; gap: 15px; flex-wrap: nowrap; align-items: center;">
+  <!-- Core Programming -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI" width="40" height="40"/>
+  </a>
+
+  <!-- Web & Markup -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <!-- Database -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <!-- DevOps -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+
+  <!-- AI Tools -->
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mubashir12392/Mubashir12392/main/chatgpt.png" alt="ChatGPT" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Mubashir12392/Mubashir12392/main/Langchain--Streamline-Simple-Icons.png" alt="LangChain" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" height="40"/>
+  </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir12392&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Mubashir GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubashir12392&show_icons=true&theme=synthwave)
 
