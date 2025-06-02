@@ -47,16 +47,11 @@ I'm also diving deep into **Agentic AI**, **system design**, and cloud-native ar
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI" width="40" height="40"/>
   </a>
-
-  <!-- Web & Markup -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 
   <!-- Database -->
@@ -84,6 +79,13 @@ I'm also diving deep into **Agentic AI**, **system design**, and cloud-native ar
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <!-- Web & Markup -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
 
