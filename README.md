@@ -1,5 +1,5 @@
 
-# Hi 👋, It's Muhammad Mubashir
+# Hi, It's Muhammad Mubashir
 
 ## Senior Python Developer \| Django Expert \| AI-Powered Web App Builder
 
