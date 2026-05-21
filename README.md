@@ -1,4 +1,3 @@
-
 # Hi, It's Muhammad Mubashir
 
 ## Senior Python Developer \| Django Expert \| AI-Powered Web App Builder
@@ -89,8 +88,12 @@ I'm also diving deep into **Agentic AI**, **system design**, and cloud-native ar
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir12392&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mubashir12392&theme=transparent" alt="Mubashir GitHub stats" />
+</a>
 
-![Mubashir GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubashir12392&show_icons=true&theme=synthwave)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mubashir12392&theme=transparent" alt="Top languages used by Mubashir" />
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir12392&" alt="Mubashir12392" /></p>
