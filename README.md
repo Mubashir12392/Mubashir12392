@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://trophy.ryglcloud.net/?username=Mubashir12392&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4"
+      src="https://trophy.ryglcloud.net/?username=Mubashir12392&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=9"
       alt="Mubashir12392's GitHub Profile Trophy"
     />
   </a>
