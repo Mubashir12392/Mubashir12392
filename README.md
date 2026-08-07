@@ -1,6 +1,6 @@
 # Hi, It's Muhammad Mubashir
 
-## Senior Python Developer \| Django Expert \| AI-Powered Web App Builder
+## Senior Software Engineer | Python, Django, FastAPI | GenAI, LLMs & AI Agents | AWS, Docker
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mubashir12392&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a **Senior Python Developer** with extensive experience building scalable, secure, and high-performance **web applications** and **SaaS products** using Django, FastAPI, and modern backend technologies.
+I'm a **Senior Software Engineer** with extensive experience building scalable, secure, and high-performance **web applications** and **SaaS products** using Django, FastAPI, and modern backend technologies.
 
 With a growing passion for **AI**, I'm actively building projects using **LLMs**, **LangChain**, **OpenAI**, **Whisper API**, **Vector DBs (FAISS/Chroma)**, and deploying them with **Docker + AWS**.
 
